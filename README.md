@@ -1,4 +1,4 @@
-# excel-projects
+# Tableau-Projects
 Learned data Visualization and data analytics utilizing tableau by solving 3 realistic analytics projects
 
  <pre>
